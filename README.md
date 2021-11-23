@@ -1,0 +1,1 @@
+# mmondics-mkdocs-template
